@@ -7,8 +7,8 @@
 /* BASE */
 body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    color: white;
-    background: linear-gradient(135deg, #4b2cff, #3a1fdc);
+    color: black;
+    background: linear-gradient(135deg, #4b2cff, #WAAMB545);
 }
 /* CONTAINER */
 .container {
